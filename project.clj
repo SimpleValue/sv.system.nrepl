@@ -1,4 +1,4 @@
-(defproject sv/system.nrepl "0.1.0-SNAPSHOT"
+(defproject sv/system.nrepl "0.1.0"
   :description "Components and helper functions to use a nREPL server
                 in a sv/system-based application."
   :url "https://github.com/SimpleValue/sv.system.nrepl"
